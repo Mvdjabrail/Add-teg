@@ -1,0 +1,48 @@
+form{
+    width: 17%;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.divError {
+    width: 17%;
+    margin: auto;
+}
+
+.btn {
+    background-color: blue;
+    color: white;
+}
+.input {
+    border: 1px solid blue;
+}
+.input1 {
+box-shadow: 2px 2px 8px red;
+}
+.divMap {
+    padding-top: 1%;
+    width: 17%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.divTeg {
+    border: 1px solid black;
+    margin-right: 5%;
+    background-color: rgb(90, 178, 255);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    color: blue;
+    margin-top: 2%;
+    padding: 0 0 0 5px;
+}
+
+.btn2 {
+    background-color: inherit;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 8px;
+}
